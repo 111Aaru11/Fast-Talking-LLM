@@ -1,0 +1,106 @@
+2025-08-28 13:24:36,676 - INFO - Application started.
+2025-08-28 13:24:37,629 - INFO - Whisper model loaded successfully.
+2025-08-28 13:24:37,671 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-28 13:24:37,671 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-28 13:24:37,854 - INFO - TTS engine initialized.
+2025-08-28 13:24:37,963 - INFO - Launching Gradio app...
+2025-08-28 13:24:38,380 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-28 13:24:38,394 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-28 13:24:39,614 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-28 13:25:03,211 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-28 13:25:03,399 - INFO - Processing audio with duration 00:04.536
+2025-08-28 13:25:03,615 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-28 13:25:04,335 - INFO - Detected language 'en' with probability 0.81
+2025-08-28 13:25:05,109 - INFO - Transcription completed:  Hey, how are you?
+2025-08-28 13:25:08,205 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-28 13:25:11,810 - INFO - LLM response generated: 
+I'm just an AI, I don't have emotions or personal experiences, so I can't feel or respond to emotions. However, I'm here to help you with any questions or tasks you may have! Is there something specific you would like to talk about or ask?
+2025-08-28 13:25:12,094 - INFO - TTS audio saved as response.wav
+2025-08-31 15:54:54,793 - INFO - Application started.
+2025-08-31 15:54:56,718 - INFO - Whisper model loaded successfully.
+2025-08-31 15:54:56,801 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 15:54:56,809 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 15:54:57,168 - INFO - TTS engine initialized.
+2025-08-31 15:54:57,395 - INFO - Launching Gradio app...
+2025-08-31 15:54:58,208 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 15:54:58,252 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:54:59,429 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 15:55:25,812 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-31 15:55:26,174 - INFO - Processing audio with duration 00:04.536
+2025-08-31 15:55:26,662 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-31 15:55:28,203 - INFO - Detected language 'en' with probability 0.81
+2025-08-31 15:55:29,867 - INFO - Transcription completed:  Hey, how are you?
+2025-08-31 15:55:30,815 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:55:35,943 - INFO - LLM response generated: 
+I'm just an AI, I don't have feelings or emotions, so I can't feel tired or any other emotion. However, I'm here to help you with any questions or tasks you may have! Is there anything specific you would like to know or discuss?
+2025-08-31 15:55:36,453 - INFO - TTS audio saved as response.wav
+2025-08-31 19:26:30,014 - INFO - Application started.
+2025-08-31 19:26:31,172 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:26:31,219 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:26:31,220 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:26:31,441 - INFO - TTS engine initialized.
+2025-08-31 19:26:31,573 - INFO - Launching Gradio app...
+2025-08-31 19:26:32,032 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:26:32,062 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-08-31 19:26:33,059 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:26:41,246 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\54fe40b72ef0fc50ce288690e083c3046a8cd30db37abb95971563c9d608cc75\audio5.wav
+2025-08-31 19:26:41,429 - INFO - Processing audio with duration 00:01.800
+2025-08-31 19:26:41,640 - INFO - VAD filter removed 00:01.800 of audio
+2025-08-31 19:28:25,376 - INFO - Application started.
+2025-08-31 19:28:26,471 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:28:26,506 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:28:26,507 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:28:26,768 - INFO - TTS engine initialized.
+2025-08-31 19:28:26,925 - INFO - Launching Gradio app...
+2025-08-31 19:28:27,364 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:28:27,389 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-08-31 19:28:28,307 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:28:37,455 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\54fe40b72ef0fc50ce288690e083c3046a8cd30db37abb95971563c9d608cc75\audio5.wav
+2025-08-31 19:28:37,642 - INFO - Processing audio with duration 00:01.800
+2025-08-31 19:28:37,844 - INFO - VAD filter removed 00:01.800 of audio
+2025-08-31 19:28:38,123 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 19:28:49,674 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-01 00:32:30,426 - INFO - Application started.
+2025-09-01 00:32:30,457 - INFO - CUDA available: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+2025-09-01 00:32:31,632 - INFO - Whisper model loaded successfully on CUDA.
+2025-09-01 00:32:31,929 - INFO - TTS engine initialized.
+2025-09-01 00:32:32,050 - INFO - Launching Gradio app...
+2025-09-01 00:32:43,378 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:32:44,047 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-09-01 00:32:46,018 - INFO - LLM response generated: I apologize for the mistake. Could you please provide me with the correct text or context so I can assist you better?
+2025-09-01 00:32:46,380 - INFO - TTS audio saved as response.wav
+2025-09-01 00:34:28,613 - INFO - Application started.
+2025-09-01 00:34:30,406 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 00:34:30,909 - INFO - TTS engine initialized.
+2025-09-01 00:34:31,195 - INFO - Launching Gradio app...
+2025-09-01 00:34:43,256 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:34:43,920 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-09-01 00:34:47,624 - INFO - LLM response generated: 
+I apologize, but I'm a large language model, I cannot recognize or correct errors in transcriptions that do not exist. Could you please provide me with the actual text you would like me to transcribe, and I will be happy to help you?
+2025-09-01 00:34:48,083 - INFO - TTS audio saved as response.wav
+2025-09-01 00:43:46,255 - INFO - Application started.
+2025-09-01 00:43:48,189 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 00:43:48,790 - INFO - TTS engine initialized.
+2025-09-01 00:43:49,012 - INFO - Launching Gradio app...
+2025-09-01 00:44:01,342 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:44:02,935 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-09-01 00:49:33,553 - INFO - Application started.
+2025-09-01 00:49:36,082 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 00:49:36,692 - INFO - TTS engine initialized.
+2025-09-01 00:49:37,046 - INFO - Launching Gradio app...
+2025-09-01 00:49:49,095 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:55:07,431 - INFO - Application started.
+2025-09-01 00:55:09,361 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 00:55:09,908 - INFO - TTS engine initialized.
+2025-09-01 00:55:10,210 - INFO - Launching Gradio app...
+2025-09-01 00:55:25,213 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:56:46,413 - INFO - Application started.
+2025-09-01 00:56:48,527 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 00:56:49,064 - INFO - TTS engine initialized.
+2025-09-01 00:56:49,374 - INFO - Launching Gradio app...
+2025-09-01 00:57:02,542 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 14:53:30,209 - INFO - Application started.
+2025-09-01 14:53:32,093 - INFO - Whisper model loaded successfully on CUDA (GPU).
+2025-09-01 14:53:33,268 - INFO - TTS engine initialized.
+2025-09-01 14:53:33,545 - INFO - Launching Gradio app...
+2025-09-01 14:53:49,512 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\df5ab3179748ebc0dd6ef36e56a989894474436b7ce68c488cffe6ea37ba0787\audio.wav

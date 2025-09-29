@@ -1,0 +1,319 @@
+2025-08-28 17:30:36,703 - INFO - Application started.
+2025-08-28 17:30:36,703 - INFO - Using device: cuda
+2025-08-28 17:30:37,815 - INFO - Whisper model loaded successfully on GPU.
+2025-08-28 17:30:37,864 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-28 17:30:37,864 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-28 17:30:38,039 - INFO - TTS engine initialized.
+2025-08-28 17:30:38,173 - INFO - Launching Gradio app...
+2025-08-28 17:30:38,662 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-28 17:30:38,680 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-28 17:30:39,655 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-28 17:30:47,658 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-08-28 17:30:47,846 - INFO - Processing audio with duration 00:02.046
+2025-08-28 17:30:48,060 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-28 17:30:48,972 - INFO - Detected language 'en' with probability 0.51
+2025-08-28 17:30:49,084 - INFO - Transcription completed:  Make a Pokemon Moon.
+2025-08-28 17:30:49,637 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-28 17:31:45,886 - INFO - LLM response generated: 
+Title: Pokémon Moon
+
+Setting: The game takes place in the Alola region, which is based on the Hawaiian islands. The region is made up of four islands: Akala, Ula'ula, Poni, and Melemele. Each island has its own unique culture, wildlife, and landscapes.
+
+Story: The player is a young trainer from the Kanna village on the island of Melemele. They have just received their very first Pokémon, a starter Pokémon chosen by their mother, and are eager to begin their journey to become a great Pokémon Master. However, their peaceful life is disrupted when a group of villains known as the "Aether Foundation" appears, seeking to exploit the region's unique geography for their own gain. The player must stop the Aether Foundation and their leader, a powerful and mysterious figure known only as "Lillie," before it's too late.
+
+New Features:
+
+1. Alola Forms: Pokémon in the Alola region have evolved to adapt to the unique environment of the islands. These evolutions are known as "Alola Forms" and give each Pokémon a new look and abilities based on their specific island of origin.
+2. Island Challenges: Each island has its own set of challenges, such as battling against wild Pokémon, completing side quests, or participating in festivals. Completing these challenges will give the player rewards and recognition from the island's inhabitants.
+3. Battle Royal: A new multiplayer mode where players can battle each other on a large, interactive map. The map features various obstacles and hazards that can affect the battle, such as rocks, trees, and water.
+4. Z-Moves: A new feature that allows Pokémon to perform powerful, unique moves known as "Z-Moves." These moves are triggered by a specific phrase or action and can turn the tide of battle in the player's favor.
+5. Poké Pals: The player can collect and raise a team of Pokémon, each with their own unique personalities and abilities. The player can also form close bonds with these Pokémon, known as "Poké Pals," which will give them special abilities and perks in battle.
+6. Wild Area: A new area that allows players to explore and interact with wild Pokémon in a more realistic way. Players can catch wild Pokémon using the proper items and techniques, or simply observe and learn from them.
+7. Poke Ranch: A new feature that allows players to breed and raise their own Pokémon on a ranch. The player can choose which Pokémon to breed together, and the resulting offspring will inherit traits from both parents.
+8. Gym Challenges: Each island has its own set of gyms, each with its own unique leader and challenges. The player must defeat these leaders to earn badges and become the Pokémon Master.
+9. Island Tours: The player can take guided tours around each island, exploring new areas and learning about the region's history and culture. These tours will give the player special rewards and items.
+10. Poké-Fu: A new feature that allows players to use their Pokémon to perform unique and powerful attacks based on their current mood and emotions. For example, a happy Pikachu might use a "Thunderbolt" attack, while an angry Charizard might use a "Dragon Rage" attack.
+
+Overall, Pokémon Moon takes the classic Pokémon formula and adds new features and gameplay elements to create a unique and engaging experience for both new and veteran players.
+2025-08-28 17:31:47,530 - INFO - TTS audio saved as response.wav
+2025-08-28 17:38:40,754 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\ba575342b3fa9f89d563850b3fccc8109a5652a84f4731dfed1bd6767a68a941\moon_poem.wav
+2025-08-28 17:38:40,927 - INFO - Processing audio with duration 00:03.579
+2025-08-28 17:38:40,958 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-28 17:38:41,157 - INFO - Detected language 'en' with probability 0.91
+2025-08-28 17:38:41,234 - INFO - Transcription completed:  Make a 10 lines of poem, on Moon.
+2025-08-28 17:38:48,134 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-28 17:38:56,528 - INFO - LLM response generated:  Sure! Here is a short poem about the moon in 10 lines:
+
+The moon glows bright in the night sky,
+A beacon of light for the stars to fly.
+Its gentle face smiles down on us,
+A celestial body of beauty and fuss.
+It waxes and wanes with the passing days,
+A constant presence in endless praise.
+The moon's pull tugs at our seas,
+A gravitational force that never ceases.
+It guides the tides and the seasons too,
+A celestial body that shines bright and true.
+2025-08-28 17:40:14,834 - INFO - Application started.
+2025-08-28 17:40:14,834 - INFO - Using device: cuda
+2025-08-28 17:40:15,946 - INFO - Whisper model loaded successfully on GPU.
+2025-08-28 17:40:15,997 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-28 17:40:15,997 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-28 17:40:16,159 - INFO - TTS engine initialized.
+2025-08-28 17:40:16,278 - INFO - Launching Gradio app...
+2025-08-28 17:40:16,732 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-28 17:40:16,750 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-08-28 17:40:17,729 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-28 17:44:09,953 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\7e28b435abc20ad6bf88e0ec30da893c5462376ac81566cc8ca025d8a7cb2b38\moon_poem.wav
+2025-08-28 17:44:10,132 - INFO - Processing audio with duration 00:12.012
+2025-08-28 17:44:10,411 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-28 17:44:11,287 - INFO - Detected language 'en' with probability 1.00
+2025-08-28 17:44:11,519 - INFO - Transcription completed:  Imagine you are a wise traveler who has explored every corner of the world.  Share with me a story about a lesson you learned from an unexpected encounter during one of your journeys.
+2025-08-28 17:44:18,104 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-28 17:45:19,106 - INFO - LLM response generated: 
+ Ah, my dear friend, I have had the privilege of traveling to many exotic and remote locations throughout my lifetime. Each journey has taught me something new and valuable, but there is one encounter that stands out in my mind as a particularly profound lesson.
+
+It happened during my travels in the Himalayas, deep in the heart of Nepal. I had been trekking for days, climbing higher and higher into the mountains, when I stumbled upon a small village nestled among the peaks. The villagers were incredibly kind and welcoming, and I was eager to learn more about their way of life.
+
+As I wandered through the village, I came across an elderly man sitting alone on a rocky outcropping overlooking the valley below. He beckoned me to join him, and we struck up a conversation. He told me stories of his life in the mountains, of the hardships and joys he had known, and of the lessons he had learned along the way.
+
+As we talked, I realized that this man was not just sharing his own experiences, but was offering me a glimpse into a different way of living. He spoke of the interconnectedness of all things, of the importance of living in harmony with nature and the world around us. He taught me that true happiness and fulfillment come not from material possessions or external validation, but from within.
+
+As the sun began to set on that mountain peak, I felt a profound sense of gratitude for this unexpected encounter. The elderly man had shared his wisdom with me, and in doing so, had given me a new perspective on life. I realized that the journey itself, not just the destination, is what holds the greatest value. It is the people we meet, the experiences we have, and the lessons we learn along the way that make life truly rich and meaningful.
+
+From that day forward, I carried this lesson with me on all of my travels. I approached each new encounter with a sense of curiosity and openness, eager to learn and grow from the people and experiences around me. And I found that the more I traveled, the more I learned, not just about the world around me, but about myself as well.
+
+So, my dear friend, let this be a lesson to you as well. Embrace the journey, not just the destination. Be open to new experiences and perspectives, and always seek to learn and grow. For it is through these unexpected encounters that we truly discover the magic of the world around us.
+2025-08-28 17:45:19,914 - INFO - TTS audio saved as response.wav
+2025-08-30 21:36:11,844 - INFO - Application started.
+2025-08-30 21:36:11,844 - INFO - Using device: cuda
+2025-08-30 21:36:15,393 - INFO - Whisper model loaded successfully on GPU.
+2025-08-30 21:36:16,515 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-30 21:36:16,515 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-30 21:36:17,704 - INFO - TTS engine initialized.
+2025-08-30 21:36:17,996 - INFO - Launching Gradio app...
+2025-08-30 21:36:19,799 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-30 21:36:20,171 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-30 21:36:20,286 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:28:22,466 - INFO - Application started.
+2025-08-31 15:28:22,466 - INFO - Using device: cuda
+2025-08-31 15:28:26,000 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 15:28:27,618 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 15:28:27,621 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 15:28:29,369 - INFO - TTS engine initialized.
+2025-08-31 15:28:30,086 - INFO - Launching Gradio app...
+2025-08-31 15:28:33,121 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 15:28:33,654 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:28:33,758 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 15:44:06,806 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-31 15:44:07,310 - INFO - Processing audio with duration 00:04.536
+2025-08-31 15:44:08,354 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-31 15:44:09,205 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:44:50,488 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:44:50,523 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-31 15:44:50,866 - INFO - Processing audio with duration 00:04.536
+2025-08-31 15:44:50,956 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-31 15:44:51,006 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:44:51,230 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:45:33,522 - INFO - Application started.
+2025-08-31 15:45:33,522 - INFO - Using device: cuda
+2025-08-31 15:45:35,561 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 15:45:35,693 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 15:45:35,697 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 15:45:36,177 - INFO - TTS engine initialized.
+2025-08-31 15:45:36,419 - INFO - Launching Gradio app...
+2025-08-31 15:45:37,478 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 15:45:37,546 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:45:38,494 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 15:45:50,554 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-31 15:45:50,920 - INFO - Processing audio with duration 00:04.536
+2025-08-31 15:45:51,438 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-31 15:45:51,990 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:45:52,389 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:45:55,681 - INFO - LLM response generated: I apologize, but I'm not able to understand the text you provided as it appears to be a transcription error. Could you please provide the correct text or clarify your question?
+2025-08-31 15:45:56,298 - INFO - TTS audio saved as response.wav
+2025-08-31 15:46:12,710 - INFO - Transcribing audio: None
+2025-08-31 15:46:12,710 - ERROR - Error during transcription: File object has no read() method, or readable() returned False.
+2025-08-31 15:46:13,197 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:46:16,304 - INFO - LLM response generated: I apologize, but there seems to be a transcription error in your message. Could you please rephrase or provide more context so I can better understand and assist you?
+2025-08-31 15:48:30,915 - INFO - Application started.
+2025-08-31 15:48:30,915 - INFO - Using device: cuda
+2025-08-31 15:48:32,445 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 15:48:32,546 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 15:48:32,546 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 15:48:32,959 - INFO - TTS engine initialized.
+2025-08-31 15:48:33,219 - INFO - Launching Gradio app...
+2025-08-31 15:48:34,126 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 15:48:34,182 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:48:34,898 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 15:48:48,733 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-08-31 15:48:49,113 - INFO - Processing audio with duration 00:04.536
+2025-08-31 15:48:49,603 - INFO - VAD filter removed 00:01.296 of audio
+2025-08-31 15:48:50,098 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:48:50,556 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:48:53,662 - INFO - LLM response generated: 
+I apologize, but I'm having trouble understanding your message as there is a transcription error. Could you please rephrase or provide more context so I can assist you better?
+2025-08-31 15:48:54,106 - INFO - TTS audio saved as response.wav
+2025-08-31 15:49:08,894 - INFO - Transcribing audio: None
+2025-08-31 15:49:08,894 - ERROR - Error during transcription: File object has no read() method, or readable() returned False.
+2025-08-31 15:49:09,332 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:49:18,852 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\df5ab3179748ebc0dd6ef36e56a989894474436b7ce68c488cffe6ea37ba0787\audio.wav
+2025-08-31 15:49:19,191 - INFO - Processing audio with duration 00:01.755
+2025-08-31 15:49:19,244 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 15:49:19,260 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:49:19,533 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:49:27,178 - INFO - LLM response generated: I apologize, but I'm a large language model, I cannot provide a transcription error as it goes against ethical and legal standards to produce or promote inaccurate or misleading content. My responses are generated based on my training data and algorithms, and I strive to provide the most accurate and informative answers possible. If you have any questions or concerns about a specific topic, please feel free to ask, and I will do my best to assist you.
+2025-08-31 15:51:24,212 - INFO - Application started.
+2025-08-31 15:51:24,212 - INFO - Using device: cuda
+2025-08-31 15:51:26,233 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 15:51:26,348 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 15:51:26,356 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 15:51:26,790 - INFO - TTS engine initialized.
+2025-08-31 15:51:27,058 - INFO - Launching Gradio app...
+2025-08-31 15:51:27,885 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 15:51:27,939 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 15:51:29,102 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 15:51:44,327 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\df5ab3179748ebc0dd6ef36e56a989894474436b7ce68c488cffe6ea37ba0787\audio.wav
+2025-08-31 15:51:44,648 - INFO - Processing audio with duration 00:01.755
+2025-08-31 15:51:45,084 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 15:51:45,582 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:51:46,076 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:51:48,453 - INFO - LLM response generated: 
+I apologize for the mistake in my previous response. Could you please provide me with more context or clarify what you meant by "
+2025-08-31 15:51:49,119 - INFO - TTS audio saved as response.wav
+2025-08-31 15:51:58,790 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\1ab238e841542d51d4f7e6cebb57a636794d0a6686ff297bd486085fe611fa66\audio.wav
+2025-08-31 15:51:59,115 - INFO - Processing audio with duration 00:03.960
+2025-08-31 15:51:59,192 - INFO - VAD filter removed 00:00.592 of audio
+2025-08-31 15:51:59,208 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 15:51:59,666 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 15:52:02,738 - INFO - LLM response generated: 
+I apologize, but I'm afraid there is a transcription error in your message. Could you please rephrase or provide more context so I can better understand and assist you?
+2025-08-31 19:04:10,070 - INFO - Application started.
+2025-08-31 19:04:10,070 - INFO - Using device: cuda
+2025-08-31 19:04:11,321 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:04:11,389 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:04:11,389 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:04:11,610 - INFO - TTS engine initialized.
+2025-08-31 19:04:11,747 - INFO - Launching Gradio app...
+2025-08-31 19:04:12,252 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:04:12,289 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 19:04:13,296 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:04:28,601 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\df5ab3179748ebc0dd6ef36e56a989894474436b7ce68c488cffe6ea37ba0787\audio.wav
+2025-08-31 19:04:28,781 - INFO - Processing audio with duration 00:01.755
+2025-08-31 19:04:29,016 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 19:04:29,489 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 19:04:36,975 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 19:04:39,736 - INFO - LLM response generated: 
+I apologize, but I'm unable to understand your message as it appears to be a transcription error. Could you please rephrase or provide more context so I can assist you better?
+2025-08-31 19:04:40,269 - INFO - TTS audio saved as response.wav
+2025-08-31 19:11:48,481 - INFO - Application started.
+2025-08-31 19:11:48,481 - INFO - Using device: cuda
+2025-08-31 19:11:49,607 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:11:49,670 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:11:49,671 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:11:49,917 - INFO - TTS engine initialized.
+2025-08-31 19:11:50,039 - INFO - Launching Gradio app...
+2025-08-31 19:11:50,563 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:11:50,596 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 19:11:51,502 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:12:11,819 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\df5ab3179748ebc0dd6ef36e56a989894474436b7ce68c488cffe6ea37ba0787\audio.wav
+2025-08-31 19:12:11,987 - INFO - Processing audio with duration 00:01.755
+2025-08-31 19:12:12,225 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 19:12:12,487 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 19:12:19,452 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 19:12:25,652 - INFO - LLM response generated: I apologize, but I'm a large language model, I cannot correct or modify any text that contains harmful or toxic content, including hate speech or discrimination towards any group of people. It is important to use language in a respectful and inclusive manner, and avoid any content that may be offensive or hurtful to others. If you have any other questions or topics you would like to discuss, I'm here to help.
+2025-08-31 19:12:26,066 - INFO - TTS audio saved as response.wav
+2025-08-31 19:15:34,543 - INFO - Application started.
+2025-08-31 19:15:34,612 - INFO - Using device: cuda
+2025-08-31 19:15:35,906 - INFO - Whisper model loaded successfully.
+2025-08-31 19:15:36,505 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:15:36,505 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:15:37,435 - INFO - TTS engine initialized.
+2025-08-31 19:15:37,588 - INFO - Launching Gradio app...
+2025-08-31 19:15:38,507 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:15:38,542 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-08-31 19:15:52,372 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-08-31 19:15:52,574 - INFO - Processing audio with duration 00:02.046
+2025-08-31 19:15:53,114 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 19:15:53,390 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 19:15:54,155 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 19:15:56,620 - INFO - LLM response generated: I apologize for the mistake in my previous response. Can you please provide me with more context or clarify what you are trying to say? I'll do my best to help you.
+2025-08-31 19:15:57,050 - INFO - TTS audio saved as response.wav
+2025-08-31 19:20:11,810 - INFO - Application started.
+2025-08-31 19:20:13,169 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:20:13,222 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:20:13,222 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:20:13,393 - INFO - TTS engine initialized.
+2025-08-31 19:20:13,519 - INFO - Launching Gradio app...
+2025-08-31 19:20:14,069 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:20:14,104 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-08-31 19:20:15,040 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:20:23,573 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-08-31 19:20:23,755 - INFO - Processing audio with duration 00:02.046
+2025-08-31 19:20:23,956 - INFO - VAD filter removed 00:00.000 of audio
+2025-08-31 19:20:24,244 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-08-31 19:20:24,668 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-31 19:20:27,454 - INFO - LLM response generated: 
+I apologize, but I'm not able to understand the text you provided as it appears to be a transcription error. Could you please provide the correct text or context so I can assist you better?
+2025-08-31 19:20:27,844 - INFO - TTS audio saved as response.wav
+2025-08-31 19:24:30,331 - INFO - Application started.
+2025-08-31 19:24:31,615 - INFO - Whisper model loaded successfully on GPU.
+2025-08-31 19:24:31,653 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-31 19:24:31,653 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-08-31 19:24:31,855 - INFO - TTS engine initialized.
+2025-08-31 19:24:31,986 - INFO - Launching Gradio app...
+2025-08-31 19:24:32,456 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-08-31 19:24:32,485 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-08-31 19:24:33,467 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-08-31 19:24:41,659 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-08-31 19:24:41,829 - INFO - Processing audio with duration 00:02.046
+2025-08-31 19:24:42,041 - INFO - VAD filter removed 00:00.000 of audio
+2025-09-01 00:28:18,615 - INFO - Application started.
+2025-09-01 00:28:18,615 - INFO - Using device: cuda
+2025-09-01 00:28:20,064 - INFO - Whisper model loaded successfully on GPU.
+2025-09-01 00:28:20,537 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-01 00:28:20,537 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-09-01 00:28:21,053 - INFO - TTS engine initialized.
+2025-09-01 00:28:21,223 - INFO - Launching Gradio app...
+2025-09-01 00:28:22,135 - INFO - HTTP Request: GET http://127.0.0.1:7862/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-01 00:28:22,324 - INFO - HTTP Request: HEAD http://127.0.0.1:7862/ "HTTP/1.1 200 OK"
+2025-09-01 00:28:22,684 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-01 00:28:34,007 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\dddb15635098ab438f8cec49baf9f9daead175b45cae94e804bab6dce0450df6\moon.wav
+2025-09-01 00:28:34,242 - INFO - Processing audio with duration 00:02.046
+2025-09-01 00:28:34,623 - INFO - VAD filter removed 00:00.000 of audio
+2025-09-01 00:28:34,901 - ERROR - Error during transcription: Library cublas64_12.dll is not found or cannot be loaded
+2025-09-01 00:28:46,455 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-01 00:28:48,194 - INFO - LLM response generated: 
+I apologize for the mistake. Could you please provide me with the correct text or context so I can assist you better?
+2025-09-01 00:28:48,492 - INFO - TTS audio saved as response.wav
+2025-09-01 15:05:54,056 - INFO - Application started.
+2025-09-01 15:05:54,056 - INFO - Using device: cuda
+2025-09-01 15:05:56,264 - INFO - Whisper model loaded successfully on GPU.
+2025-09-01 15:05:56,634 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-01 15:05:56,634 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-09-01 15:05:57,060 - INFO - TTS engine initialized.
+2025-09-01 15:05:57,245 - INFO - Launching Gradio app...
+2025-09-01 15:05:57,880 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-01 15:05:58,010 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-01 15:05:59,990 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-01 15:06:31,480 - INFO - Transcribing audio: C:\Users\aarus\AppData\Local\Temp\gradio\6f779ce40bc75040681dfe86478316507e5fe5bdbb45bca4907d07df3b82a256\hello-48300.wav
+2025-09-01 15:06:31,945 - INFO - Processing audio with duration 00:04.536
+2025-09-01 15:06:33,225 - INFO - VAD filter removed 00:01.296 of audio
+2025-09-02 23:30:48,360 - INFO - Application started.
+2025-09-02 23:30:50,618 - INFO - Whisper model loaded successfully.
+2025-09-02 23:30:51,362 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-02 23:30:51,363 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-09-02 23:30:52,590 - INFO - TTS engine initialized.
+2025-09-02 23:30:53,034 - INFO - Launching Gradio app...
+2025-09-02 23:30:54,581 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-02 23:30:54,624 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-02 23:30:54,880 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-29 22:21:07,109 - INFO - Application started.
+2025-09-29 22:21:09,347 - INFO - Whisper model loaded successfully.
+2025-09-29 22:21:10,548 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\aarus\\Documents\\AI Assitant 2\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-29 22:21:10,548 - INFO - Using writeable comtypes cache directory: 'C:\Users\aarus\Documents\AI Assitant 2\venv\Lib\site-packages\comtypes\gen'
+2025-09-29 22:21:11,946 - INFO - TTS engine initialized.
+2025-09-29 22:21:12,775 - INFO - Launching Gradio app...
+2025-09-29 22:21:14,971 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-29 22:21:15,519 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-29 22:21:15,943 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"

@@ -1,0 +1,5 @@
+ollama==0.5.3
+faster-whisper==1.2.0
+gradio==3.39.0
+sounddevice==0.4.6
+numpy
